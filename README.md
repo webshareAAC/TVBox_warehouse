@@ -1,5 +1,7 @@
 # TVBox自用资源
 
+fork 自 PizazzGY/TVBox_warehouse，给家里爸妈用的，自己不看，所以更新会不及时。建议直接去PizazzGY大佬那里。
+
 在线源订阅地址：
 
 https://github.moeyy.xyz/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt
